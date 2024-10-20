@@ -14,6 +14,8 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("Salam");
             System.out.println("Sagol");
+
+            System.out.println("Random classi implement olundu");
         
         }
     }
